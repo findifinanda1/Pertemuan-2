@@ -40,5 +40,7 @@ public class Mahasiswa12 {
         this.nim = nim;
         this.ipk = ipk;
         kelas = kls;
+
+        Mahasiswa12 mhs = new Mahasiswa12("Findi Finanda Aszahra", "254107020016", 3.80, "TI 1D");
     }
 }
